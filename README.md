@@ -65,7 +65,6 @@ c.close()
 sock.close()
 ```
 ## OUPUT
-
 <img width="1920" height="1080" alt="Screenshot 2026-05-19 190748" src="https://github.com/user-attachments/assets/21ee0e2a-9d6d-4d25-819f-5c6520ed0975" />
 
 ## RESULT
